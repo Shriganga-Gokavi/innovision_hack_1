@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#7b2ff7"
+backgroundColor = "transparent"
+secondaryBackgroundColor = "rgba(255,255,255,0.3)"
+textColor = "#1a1a2e"
+font = "sans serif"
+
+[server]
+headless = true
+port = 8501
+
+[browser]
+gatherUsageStats = false
